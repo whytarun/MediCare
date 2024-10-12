@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.medicare.auth.test.auth-mergeDebugAndroidTestResources-64:/values-v18/values-v18.xml",
+            "map": [
+                {
+                    "source": "/Users/tarunyekbote/.gradle/caches/transforms-4/f0fa10693551ed4cb7f5473c8f8d7972/transformed/core-1.5.0/res/values-v18/values.xml",
+                    "from": {
+                        "startLines": "4,12",
+                        "startColumns": "0,0",
+                        "startOffsets": "180,596",
+                        "endLines": "11,19",
+                        "endColumns": "8,8",
+                        "endOffsets": "595,1009"
+                    },
+                    "to": {
+                        "startLines": "2,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,475",
+                        "endLines": "9,17",
+                        "endColumns": "8,8",
+                        "endOffsets": "470,888"
+                    }
+                }
+            ]
+        }
+    ]
+}

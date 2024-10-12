@@ -1,0 +1,3 @@
+int string add 0x0
+int string add_todo 0x0
+int string press_the_button_to_add_a_todo_item 0x0

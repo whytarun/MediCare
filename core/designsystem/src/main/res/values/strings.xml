@@ -1,0 +1,5 @@
+<resources>
+    <string name="press_the_button_to_add_a_todo_item">Press the + button to add a TODO item</string>
+    <string name="add">Add</string>
+    <string name="add_todo">Add TODO</string>
+</resources>

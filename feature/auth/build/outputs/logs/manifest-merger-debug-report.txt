@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml:2:13-83
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml:2:13-83
+	package
+		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml
+	xmlns:android
+		ADDED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml:2:23-81
+uses-sdk
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml reason: use-sdk injection requested
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml
+INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml
+	android:minSdkVersion
+		INJECTED from /Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest16956562831388036792.xml

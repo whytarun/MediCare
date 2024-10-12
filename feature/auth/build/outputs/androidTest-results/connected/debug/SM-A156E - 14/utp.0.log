@@ -1,0 +1,26 @@
+INFO: Constructing runner from config.
+INFO: Configuring Android Instrumentation driver: android_instrumentation_runtime {
+  instrumentation_info {
+    app_package: "com.medicare.auth.test"
+    test_package: "com.medicare.auth.test"
+    test_runner_class: "androidx.test.runner.AndroidJUnitRunner"
+  }
+  instrumentation_args {
+    args_map {
+      key: "additionalTestOutputDir"
+      value: "/sdcard/Android/media/com.medicare.auth.test/additional_test_output"
+    }
+    args_map {
+      key: "class"
+      value: "LoginTest"
+    }
+  }
+}
+am_instrument_timeout: 31536000
+
+INFO: No installables found in test fixture. Nothing to install.
+INFO: Installing [/Users/tarunyekbote/AndroidStudioProjects/MediCare/feature/auth/build/intermediates/apk/androidTest/debug/auth-debug-androidTest.apk] on device RZCX20NAL4K.
+INFO: Start logcat streaming.
+INFO: Running Android Instrumentation driver.
+INFO: Stop logcat streaming.
+INFO: Execute .LoginTest.uiComponentsExist: PASSED

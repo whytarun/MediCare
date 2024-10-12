@@ -1,0 +1,5 @@
+R_DEF: Internal format may change without notice
+local
+string add
+string add_todo
+string press_the_button_to_add_a_todo_item
