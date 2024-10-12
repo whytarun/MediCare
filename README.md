@@ -1,8 +1,7 @@
 # MediCare App
 
 ## Overview
-MediCare is a simple MVVM project built using Kotlin and Jetpack Compose. The application demonstrates basic authentication and displays user information along with medicine details using a clean architecture approach.
-ovides a clean and user-friendly interface to ensure a smooth task management experience.
+MediCare is a simple MVVM project built using Kotlin and Jetpack Compose. The application demonstrates basic authentication and displays user information along with medicine details.
 
 ## Key Features
 - **Login :** Users can login to app.
