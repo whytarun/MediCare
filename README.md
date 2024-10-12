@@ -41,3 +41,6 @@ The app is structured using a multi-module architecture to promote modularity an
 - **UI Testing:** Employs Jetpack Compose testing tools to ensure the UI components work as expected.
 
 ## App Preview
+<img width="280" alt="medicare_detail" src="https://github.com/user-attachments/assets/014b060b-a4b3-47c8-ab39-dde656bd7137">
+<img width="286" alt="medicare_home" src="https://github.com/user-attachments/assets/2acaa815-fcc9-421c-87a9-ec6c0610119f">
+<img width="291" alt="medicare_login" src="https://github.com/user-attachments/assets/2d3212af-4889-4332-b693-4fc0c3ca6654">
